@@ -1,10 +1,7 @@
 'use client';
-import { useState } from 'react';
 import "/node_modules/bootstrap/scss/bootstrap.scss";
 
 function Form({handleText, handleName, name, text}) {
-    
-
 
     return (
         <>
